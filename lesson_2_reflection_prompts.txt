@@ -29,6 +29,18 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+    make two versions not wellingly to merge them
+        like translate the project
+        put new algorithm in which the prigram work
+        diffrent styles
+        easy to switch from a version and the other
+        easy to compare diffrent ideas with one and another
+        replace the orginal idea with a new one
+    make a new branch to merge it with the program in the end 
+        new feature
+        fix a bug
+        saving the edit of my college to a branch 
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
