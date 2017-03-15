@@ -1,0 +1,66 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    when we notice what changes happened we can see in the changed stuff th proplem will be there 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+   we can have the older versions of any file we are working at ,
+   we can easiley compate between two versions 
+   we can restore an older version
+   we can compare to check out the bugs
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros 
+        fewer commits are made
+        more personal 
+        more logical commits
+        being able to control every aspect of my commit
+    cons
+        hard
+        i could forget to commit
+        afraid of loosing data
+        less flexible in using
+        it would be petter to have the option to use it or not
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    git
+        was created to store codes and alot of times codes are connected to each others
+        to give more options to control the commit
+    google docs
+        is made to save diffrent documents which most of the time is seprated
+        being able to make a commit to single file at a time give the user more control
+        multible tracking is very bad if we want to restore the historey of one file not the all repository
+        we can have one file from a commit and another file from other commit
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log
+        shows all the commits that have been made to the repository
+        show the time commits has been done in
+        show the person who made these commits 
+        show the id of each commit 
+        show the msg from each commit
+    git diff
+        show the diffrences between two commits
+        if we put a commit and the commit just before it,, it can shows the changes that have been made to that exact commit.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    as i can change what i want and in the end if any bug has happened i can track it down even of o made alot of changes
+    this give me more confidnce when i code 
+    and make me less frustrated if a bug showed case i know that i will track it down
+    
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    i want to use it in developing programs in c++
+    
