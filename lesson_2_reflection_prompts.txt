@@ -52,5 +52,12 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+    what new in branch 1 and 2 will be add to a new commit
+    the common between branch 1 and 2 will be add also
+    the stuff which is present in the common parent file and not present in neither of the two branches won't be included
+    this new commit will be add to the tip of the current checked out branch
+    after that we should delete the branch name by git branch -d [branch name]
+    the graph help s visualiza the branches we have 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
