@@ -4,6 +4,9 @@ local?
         if i'm not on my laptop
         to make it possible to use diffrent devicies
         to make other people see my work and change it 
+        in case of forking 
+        if the file was large in size
+        if there was no need to download it as the project is simple
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
